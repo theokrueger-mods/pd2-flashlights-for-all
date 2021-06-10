@@ -1,0 +1,17 @@
+{
+	"blt_version" : 2,
+	"priority" : "-11"
+	"name" : "Flashlights for all!",
+	"author" : "mercu",
+	"description" : "Gives a laser and flashlight to every weapon",
+	"contact" : "https://steamcommunity.com/id/mercuwu/",
+	"color" : "255 182 193"
+	"version" : "1.0",
+	"image" : "icon.png",
+	"hooks" : [
+		{
+			"hook_id" : "lib/tweak_data/weaponfactorytweakdata",
+			"script_path" : "lua/weaponfactorytweakdata.lua"
+		}
+	]
+}
