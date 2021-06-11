@@ -7,7 +7,6 @@
 	"contact" : "https://steamcommunity.com/id/mercuwu/",
 	"color" : "255 182 193"
 	"version" : "1.0",
-	"image" : "icon.png",
 	"hooks" : [
 		{
 			"hook_id" : "lib/tweak_data/weaponfactorytweakdata",
