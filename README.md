@@ -11,4 +11,4 @@ Works exactly the same as normal lasers and flashlights
 If you wish to change the laser or flashlight colour, use a mod like [Lasers+](https://modworkshop.net/mod/20577).
 
 # Previews
-![thumbnail](https://github.com/theokrueger-diesel-mods/pd2-flashlights-for-all/raw/master/thumbs/thumbnail.png)
+![thumbnail](https://github.com/theokrueger-diesel-mods/pd2-flashlights-for-all/raw/master/thumbs/thumb.png)
