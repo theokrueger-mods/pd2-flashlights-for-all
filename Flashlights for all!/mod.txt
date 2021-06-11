@@ -13,5 +13,13 @@
 			"hook_id" : "lib/tweak_data/weaponfactorytweakdata",
 			"script_path" : "lua/weaponfactorytweakdata.lua"
 		}
+	],
+	"updates" : [
+		{
+			"identifier" : "FFA",
+			"host" : {
+				"meta" : "https://github.com/theokrueger-diesel-mods/raw/blob/master/FFA.json"
+			}
+		}
 	]
 }
