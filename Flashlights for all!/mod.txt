@@ -18,7 +18,7 @@
 		{
 			"identifier" : "FFA",
 			"host" : {
-				"meta" : "https://github.com/theokrueger-diesel-mods/raw/blob/master/FFA.json"
+				"meta" : "https://github.com/theokrueger-diesel-mods/meta/raw/master/FFA.json"
 			}
 		}
 	]
