@@ -1,6 +1,6 @@
 # Flashlights for all!
 
-![Demo](https://github.com/theokrueger-diesel-mods/pd2-flashlights-for-all/raw/master/thumbs/demo.webm)
+![Demo](https://github.com/theokrueger-mods/pd2-flashlights-for-all/raw/master/thumbs/demo.webm)
 
 **Automatically** gives every weapon a statless flashlight and laser.
 
@@ -10,5 +10,21 @@ Works exactly the same as normal lasers and flashlights
 
 If you wish to change the laser or flashlight colour, use a mod like [Lasers+](https://modworkshop.net/mod/20577).
 
-# Previews
-![thumbnail](https://github.com/theokrueger-diesel-mods/pd2-flashlights-for-all/raw/master/thumbs/thumb.png)
+## License
+```
+                    PAYDAY 2 Flashlights For All!
+                    Copyright (C) 2021 theokrueger
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License version 2 as
+published by the Free Software Foundation
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along
+with this program; if not, write to the Free Software Foundation, Inc.,
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+```
