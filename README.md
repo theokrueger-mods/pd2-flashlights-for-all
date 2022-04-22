@@ -1,6 +1,6 @@
 # Flashlights for all!
 
-![Demo](https://github.com/theokrueger-mods/pd2-flashlights-for-all/raw/master/thumbs/demo.webm)
+![demo](img/demo.webm)
 
 **Automatically** gives every weapon a statless flashlight and laser.
 
