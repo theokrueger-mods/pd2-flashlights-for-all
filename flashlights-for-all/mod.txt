@@ -1,7 +1,7 @@
 {
 	"blt_version" : 2,
 	"name" : "Flashlights for all!",
-	"author" : "mercu",
+	"author" : "theokrueger",
 	"description" : "gives a statless laser and flashlight to every weapon",
 	"version" : "1.1",
 	"hooks" : [
