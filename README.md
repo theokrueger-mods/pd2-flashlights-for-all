@@ -15,4 +15,5 @@ if you wish to change the laser or flashlight colour, use a mod like [Lasers+](h
 before removing this mod, ensure you have equipped gadgets on, or sold all of every weapon purchased or modified after the installation of this mod.
 
 ## license
+
 MIT, see [LICENSE](LICENSE)
